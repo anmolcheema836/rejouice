@@ -40,7 +40,7 @@ Contributions from fellow creators and innovators like yourself are welcomed! Wh
 
 ## Show Your Support
 
-If you find the REJOUICE® project interesting or useful, please consider giving it a star ⭐️. Also, don't forget to check out [my GitHub profile](https://github.com/SSaurabhShirbate) for more projects and contributions.
+If you find the REJOUICE® project interesting or useful, please consider giving it a star ⭐️. Also, don't forget to check out [my GitHub profile](https://github.com/anmolcheema836) for more projects and contributions.
 
 
 ---
